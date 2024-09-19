@@ -1,0 +1,4 @@
+ID, SenderFullName, SAddress, DAddress, kind, IsExpensive?, Weight, Post, Phone, Status, Price, feedback
+1, Saeed Nourian, inja, oonja, Object, No, 2.5, Regular, , Registered, 20736, 
+3, Saeed Nourian, oonja, oja, Breakable, No, 0.5, Regular, , Ready_to_send, 20000, 
+5, Saeed Nourian, shiraz- red wine  , isfahan- white gaz  , Breakable, No, 0.5, Express, 4653, Delivered, 30000, 
