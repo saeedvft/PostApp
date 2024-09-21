@@ -119,3 +119,8 @@ All user inputs (both employee and customer) must be validated to ensure they fi
 
 ### 2. Card Validation
 Some validations, like card expiration dates and numbers, require custom validation using the LUHN algorithm, which can be studied on Wikipedia.
+
+## Screenshots from application environment
+![alt text](https://github.com/saeedvft/PostApp/blob/main/Screenshots/Employee-panel.jpg?raw=true)
+![alt text](https://github.com/saeedvft/PostApp/blob/main/Screenshots/Filtered_Panel.jpg?raw=true)
+![alt text](https://github.com/saeedvft/PostApp/blob/main/Screenshots/Wallet.jpg?raw=true)
