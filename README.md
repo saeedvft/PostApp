@@ -1,5 +1,5 @@
 # Postal Package Delivery System
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/saeedvft/PostApp/blob/main/Screenshots/Main-window.jpg)?raw=true)
+![alt text](https://github.com/saeedvft/PostApp/blob/main/Screenshots/Main-window.jpg?raw=true)
 ## Introduction
 In this project, you are tasked with implementing a postal package delivery system. The goal is to apply concepts from advanced programming and use C#, SQL Server, WPF, and Git to build this system. Additionally, one of the evaluation criteria is your ability to search and solve problems using the internet, a vital skill for any programmer.
 
