@@ -18,7 +18,7 @@
     "Weight": 2.5,
     "post": 0,
     "phone_number": null,
-    "status": 0,
+    "status": 1,
     "Price": 20736,
     "feedback": ""
   },
@@ -41,7 +41,7 @@
     "Weight": 12.5,
     "post": 1,
     "phone_number": "02133510228",
-    "status": 3,
+    "status": 1,
     "Price": 3577358.1241525845,
     "feedback": ""
   },
